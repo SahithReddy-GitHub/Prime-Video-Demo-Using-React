@@ -1,0 +1,35 @@
+.thumbnail-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+}
+.card {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.bg {
+  background-color: red;
+}
+.popup-con {
+  background-color: #ffffff;
+  padding: 30px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.close-btn {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 10px;
+}
+.player-custom {
+  margin: 20px;
+  margin-top: 5px;
+}
